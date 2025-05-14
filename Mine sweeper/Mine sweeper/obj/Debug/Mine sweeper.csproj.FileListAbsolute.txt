@@ -1,0 +1,11 @@
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\bin\Debug\Mine sweeper.exe.config
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\bin\Debug\Mine sweeper.exe
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\bin\Debug\Mine sweeper.pdb
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine sweeper.csproj.AssemblyReference.cache
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine sweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine_sweeper.Properties.Resources.resources
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine sweeper.csproj.GenerateResource.cache
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine sweeper.csproj.CoreCompileInputs.cache
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine sweeper.exe
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine sweeper.pdb
+C:\Users\stepa\source\repos\Mine sweeper\Mine sweeper\obj\Debug\Mine_sweeper.Form1.resources
